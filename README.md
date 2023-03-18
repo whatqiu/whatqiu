@@ -12,5 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💬  中文（zh）English（en）日本語（ja）
+
+- 📫  https://img.shields.io/cocoapods/dm//twitter/follow/
+- https://shields.io/category/build
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whatqiu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
