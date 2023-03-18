@@ -12,13 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## Hi! Baby :crossed_fingers:
+- :bowtie:	Maybe I'm funny guy and the shy boy(Theshy)
+- :baby_chick:Code noob in (TS + Node.js + SQL + Java + C++) and ++++
+- :heartbeat: Ikun
 - 💬  中文（zh）English（en）日本語（ja）
-- ![GitHub last commit](https://img.shields.io/github/last-commit/whatqiu/chatgpt-demo?style=plastic)
 
-# Social
+## Social
 
-- 📫  ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FSingJump_Rap)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FSingJump_Rap)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whatqiu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
