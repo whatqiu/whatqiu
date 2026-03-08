@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FSingJump_Rap)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whatqiu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
